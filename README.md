@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GoldenEagle16 
-- 👀 I’m interested in too many things
-- 🌱 I’m currently learning how to deal with an overactive mind
-- 💞️ I’m looking to collaborate on most anything
+- 👋 Hi, I’m @GoldenEagle16;
+- 👀 I’m interested in too many things;
+- 🌱 I’m currently learning how to deal with an overactive mind;
+- 💞️ I’m looking to collaborate on most anything;
 - 📫 How to reach me? just send me a message.
 
 <!---
