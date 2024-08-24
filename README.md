@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on most anything;
 - 📫 How to reach me? just send me a message.
 - ✨ Bookmarks are life!
+
+- My Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=GoldenEagle16&no-frame=true&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
